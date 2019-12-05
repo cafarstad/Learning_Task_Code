@@ -16,8 +16,9 @@ namespace ConsoleApp1_Task
             bool exit = false;
             while(exit == false)
             {
-                Console.WriteLine("Witch Task-NUMBER do you want to see?");
-                Console.WriteLine("Task available are: 5 \t 6 \t 8");
+                Console.WriteLine("------------------Welcome to the World Of Chris-----------------------");
+                Console.WriteLine("\nWitch Task-NUMBER do you want to see?");
+                Console.WriteLine("Task available are: 5 \t 6 \t 8 \t 9 \t 10(work in progress)");
                 //Console.WriteLine("To quite, type exit");
                 int taskSelected = Convert.ToInt32(Console.ReadLine());
                 switch (taskSelected)
@@ -31,7 +32,9 @@ namespace ConsoleApp1_Task
                     case 8:
                         Task8();
                         break;
-
+                    case 9:
+                        Task9();
+                        break;
 
 
                 }
@@ -46,8 +49,8 @@ namespace ConsoleApp1_Task
         }
         static void Task5()
         {
-            // task 5
-            Console.WriteLine("This is Task 5");
+            
+            Console.WriteLine("Type in two numbers and i will switch the order of them");
             Console.WriteLine("Type in the first numer");
             int number1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Type in the second numer");
@@ -87,7 +90,21 @@ namespace ConsoleApp1_Task
         }
         static void Task9()
         {
+            Console.WriteLine("Let's calculate the average of four numbers");
+            Console.WriteLine("Type in the first number");
+           float num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Type in the second number");
+            float num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Type in the third number");
+            float num3 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Type in the fourth number");
+            float num4 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("The average of " + num1+","+num2+","+num3+","+num4 + "=" +((num1 + num2 + num3 + num4) /4 ));
+        }
+        static void Task10()
+        {
+            
 
         }
     }

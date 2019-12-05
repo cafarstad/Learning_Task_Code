@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
+      "projectUniqueName": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
       "projectName": "ConsoleApp1_Task",
-      "projectPath": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
+      "projectPath": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
       "packagesPath": "C:\\Users\\Chris.Farstad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\obj\\",
+      "outputPath": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
