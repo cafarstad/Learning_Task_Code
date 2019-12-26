@@ -18,8 +18,8 @@ namespace ConsoleApp1_Task
             {
                 Console.WriteLine("------------------Welcome to the World Of Chris-----------------------");
                 Console.WriteLine("\nWitch Task-NUMBER do you want to see?");
-                Console.WriteLine("Task available are: 5 \t 6 \t 8 \t 9 \t 10(work in progress)");
-                Console.WriteLine("Task available are: 20\t  ");
+                Console.WriteLine("Task available are:\n5 \t 6 \t 8 \t 9 \t 10(work in progress)");
+                Console.WriteLine("20\t  21");
                 //Console.WriteLine("To quite, type exit");
                 int taskSelected = Convert.ToInt32(Console.ReadLine());
                 switch (taskSelected)
@@ -145,7 +145,7 @@ namespace ConsoleApp1_Task
         }
         static void Task21()
         {
-
+            
 
         }
             
