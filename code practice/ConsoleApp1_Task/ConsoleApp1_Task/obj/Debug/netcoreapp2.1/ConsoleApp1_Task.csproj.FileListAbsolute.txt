@@ -20,3 +20,14 @@ C:\Users\Chris.Farstad\Desktop\Kevin\Learning_Task_Code\code practice\ConsoleApp
 C:\Users\Chris.Farstad\Desktop\Kevin\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.AssemblyInfo.cs
 C:\Users\Chris.Farstad\Desktop\Kevin\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.dll
 C:\Users\Chris.Farstad\Desktop\Kevin\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.pdb
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\bin\Debug\netcoreapp2.1\ConsoleApp1_Task.deps.json
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\bin\Debug\netcoreapp2.1\ConsoleApp1_Task.runtimeconfig.json
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\bin\Debug\netcoreapp2.1\ConsoleApp1_Task.runtimeconfig.dev.json
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\bin\Debug\netcoreapp2.1\ConsoleApp1_Task.dll
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\bin\Debug\netcoreapp2.1\ConsoleApp1_Task.pdb
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.csprojAssemblyReference.cache
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.csproj.CoreCompileInputs.cache
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.AssemblyInfoInputs.cache
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.AssemblyInfo.cs
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.dll
+D:\Coding\One Project Lots of tasks\Learning_Task_Code\code practice\ConsoleApp1_Task\ConsoleApp1_Task\obj\Debug\netcoreapp2.1\ConsoleApp1_Task.pdb

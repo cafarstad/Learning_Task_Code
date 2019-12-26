@@ -19,6 +19,7 @@ namespace ConsoleApp1_Task
                 Console.WriteLine("------------------Welcome to the World Of Chris-----------------------");
                 Console.WriteLine("\nWitch Task-NUMBER do you want to see?");
                 Console.WriteLine("Task available are: 5 \t 6 \t 8 \t 9 \t 10(work in progress)");
+                Console.WriteLine("Task available are: 20\t  ");
                 //Console.WriteLine("To quite, type exit");
                 int taskSelected = Convert.ToInt32(Console.ReadLine());
                 switch (taskSelected)
@@ -35,6 +36,10 @@ namespace ConsoleApp1_Task
                     case 9:
                         Task9();
                         break;
+                    case 20:
+                        Task20();
+                            break;
+
 
 
                 }
@@ -107,6 +112,43 @@ namespace ConsoleApp1_Task
             
 
         }
+        static void Task20()
+        {
+            Console.WriteLine("We are finding the absolute-value of two given numbers. /n Please type in the first number");
+            float num1 = Convert.ToInt32( Console.ReadLine() );
+            Console.WriteLine("Pleas type in the second number");
+            float num2 = Convert.ToInt32(Console.ReadLine() );
+
+            if (num1 > num2)
+            {
+                float sum = (num1 - num2)*2;
+                
+                Console.WriteLine("(" + num1 + " - " + num2 + ") * "+ num1 +" = "+ sum);
+                Console.WriteLine("The absolute number is " + sum);
+            }
+            else if ( num1 < num2)
+            {
+                float sum = num2 + num1;
+                float negativeSum = num1 + num2;
+                Console.WriteLine(num1 + " - " + num2 + " = " + "-"+ negativeSum);
+                Console.WriteLine("The absolute number is "+ sum);
+
+            }
+            else
+            {
+                float value = num1 - num2;
+                Console.WriteLine(num1 + " - " + num2 +" = " + value);
+                Console.WriteLine("The absolute number is " + value);
+            }
+            
+
+        }
+        static void Task21()
+        {
+
+
+        }
+            
     }
 
 }
