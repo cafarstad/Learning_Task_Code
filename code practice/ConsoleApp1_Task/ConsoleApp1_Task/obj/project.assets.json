@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chris.Farstad\\.nuget\\packages\\": {},
+    "C:\\Users\\Farstad\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
+      "projectUniqueName": "D:\\Coding\\One Project Lots of tasks\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
       "projectName": "ConsoleApp1_Task",
-      "projectPath": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
-      "packagesPath": "C:\\Users\\Chris.Farstad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris.Farstad\\Desktop\\Kevin\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\obj\\",
+      "projectPath": "D:\\Coding\\One Project Lots of tasks\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\ConsoleApp1_Task.csproj",
+      "packagesPath": "C:\\Users\\Farstad\\.nuget\\packages\\",
+      "outputPath": "D:\\Coding\\One Project Lots of tasks\\Learning_Task_Code\\code practice\\ConsoleApp1_Task\\ConsoleApp1_Task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chris.Farstad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Farstad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
